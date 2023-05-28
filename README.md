@@ -91,6 +91,4 @@ To host multiple websites on a single AWS Ubuntu LEMP (Linux, Nginx, MySQL, PHP)
 
 13. Repeat steps 6 to 12 for additional websites: If you have more websites to host, repeat steps 6 to 12 for each additional website, ensuring you configure separate server blocks for each site.
 
-Once you have completed these steps, you should have multiple websites hosted on a single AWS Ubuntu LEMP EC2 instance using Nginx. Remember to update DNS settings for each website's domain
-
- to point to your EC2 instance's IP address.
+Once you have completed these steps, you should have multiple websites hosted on a single AWS Ubuntu LEMP EC2 instance using Nginx. Remember to update DNS settings for each website's domain to point to your EC2 instance's IP address.
